@@ -1,3 +1,6 @@
 = Primer post
+
+:Author: crimarde
+
 == Mi primer post en hubpress!!!!
 Sencillisimo editor
