@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "crimarde",
-    "repositoryName": "crimarde.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"crimarde","repositoryName":"crimarde.github.io","branch":"master"},"site":{"title":"enbinario","description":"Siempre aprendiendo. Diario de un programador","url":"https://crimarde.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//crimarde.github.io/themes/Casper"}}
