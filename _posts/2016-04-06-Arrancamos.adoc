@@ -1,6 +1,9 @@
-= Primer post
+= Arrancamos
 
 :Author: crimarde
+:tag: java
+:hp-tags: bienvenida
 
-== Mi primer post en hubpress!!!!
-Sencillisimo editor
+Blog dedicado a recoger mis andanzas, avances e inquietudes en el mundo de la programación.
+
+No pretende ser un blog didáctico, sino una recopilación de herramientas, una navaja suiza, que me sirva de recordatorio y ayuda.
