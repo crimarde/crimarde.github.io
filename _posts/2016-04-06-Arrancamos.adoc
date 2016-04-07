@@ -1,7 +1,6 @@
 = Arrancamos
 
 :Author: crimarde
-:tag: java
 :hp-tags: bienvenida
 
 Blog dedicado a recoger mis andanzas, avances e inquietudes en el mundo de la programación.
